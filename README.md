@@ -21,3 +21,5 @@ Assumptions:
 2. Players are always seated at the same location at the table regardless of how many players.
 
 3. There are no ties. There is always a winner. In the case of a tie, the first player to set the highest number of suited cards wins.
+
+4. Adding players scales allows the table size to scale as needed. 
